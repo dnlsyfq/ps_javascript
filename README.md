@@ -6,6 +6,9 @@
 3. cd <project name>
 4. npm start
 
+
+
+
 ### Android Emulator 
 
 
@@ -14,6 +17,23 @@
 
 expo login
 
+
+expo client:install:android
+expo client:install:ios
+expo publish
+
+expo build:android
+expo build:ios
+expo build:web
+
+### expo api reference
+
+* AsyncStorage
+* SQLite
+
+### expo cli
+
+expo start 
 
 ### Deploy
 * codepush - ota 
