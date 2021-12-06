@@ -1,0 +1,3 @@
+[submodule "web-dev-starter"]
+	path = web-dev-starter
+	url = https://github.com/pluralsight/web-dev-starter.git
